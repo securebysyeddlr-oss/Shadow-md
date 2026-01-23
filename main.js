@@ -146,7 +146,7 @@ const soraCommand = require('./commands/sora');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://chat.whatsapp.com/IOEbmfzOD6d9TCjdX5Fi3B";
+global.channelLink = "https://whatsapp.com/channel/0029VbBgXTsKwqSKZKy38w2o";
 global.ytch = "Mr Shyam Hacker";
 
 // Add this near the top of main.js with other global configurations
@@ -197,7 +197,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
 
             if (buttonId === 'channel') {
                 await sock.sendMessage(chatId, {
-                    text: '📢 *Join our Channel:*\nhttps://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A'
+                    text: '📢 *Join our Channel:*\nhttps://whatsapp.com/channel/0029VbBgXTsKwqSKZKy38w2o'
                 }, { quoted: message });
                 return;
             } else if (buttonId === 'owner') {
@@ -206,7 +206,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
                 return;
             } else if (buttonId === 'support') {
                 await sock.sendMessage(chatId, {
-                    text: `🔗 *Support*\n\nhttps://chat.whatsapp.com/GA4WrOFythU6g3BFVubYM7?mode=wwt`
+                    text: `🔗 *Support*\n\nhttps://whatsapp.com/channel/0029VbBgXTsKwqSKZKy38w2o`
                 }, { quoted: message });
                 return;
             }
