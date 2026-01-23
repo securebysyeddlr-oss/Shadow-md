@@ -222,4 +222,4 @@ Copyright (c) 2026 Shyam. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in package.json
+- Other libraries as listed in package.jsBot
