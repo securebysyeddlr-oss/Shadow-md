@@ -11,7 +11,7 @@ async function helpCommand(sock, chatId, message) {
    YT ✦ ${global.ytch || 'https://youtube.com/@...'}
 ✦ ───── ⋆⋅♡⋅⋆ ───── ✦
 
-           ♡ BLACKPINK MENU ♡
+           ♡ DEX MENU ♡
          ⋆⋅✦⋅⋆⋅♡⋅⋆⋅✦⋅⋆
 
 ╭─────── ⋆⋅♡ BLACKPINK ⋅⋆ ───────╮
