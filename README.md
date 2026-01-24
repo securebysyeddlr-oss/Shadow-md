@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="Dex Bot Ultra" height="350">
+  <img src="https://o.uguu.se/dMYJabcv.jpg" alt="Dex Bot Ultra" height="350">
 </div>
 
 <div align="center">
