@@ -161,7 +161,7 @@ async function startXeonBotInc() {
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
                                 newsletterJid: '120363406449026172@newsletter',
-                                newsletterName: '     Bot MD',
+                                newsletterName: '   DEX SHYAM TECH',
                                 serverMessageId: -1
                             }
                         }
@@ -270,7 +270,7 @@ async function startXeonBotInc() {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: '120363406449026172@newsletter',
-                            newsletterName: 'DexBot MD',
+                            newsletterName: 'DEX SHYAM TECH',
                             serverMessageId: -1
                         }
                     }
