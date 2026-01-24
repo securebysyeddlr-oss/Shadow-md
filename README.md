@@ -61,7 +61,7 @@
 </a>
 
 ### Step 2: Get Pair Code (Fast & Easy)
-<a href="https://knight-bot-paircode.onrender.com">
+<a href="https://dex-bot-md-pair.onrender.com/pair">
   <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
 </a>
 
