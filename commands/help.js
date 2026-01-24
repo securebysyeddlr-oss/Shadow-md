@@ -241,7 +241,7 @@ async function helpCommand(sock, chatId, message) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363406449026172@newsletter',
-                        newsletterName: 'DEX-BOT-MD',
+                        newsletterName: 'DEX SHYAM TECH',
                         serverMessageId: -1
                     }
                 }
@@ -255,7 +255,7 @@ async function helpCommand(sock, chatId, message) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363406449026172@newsletter',
-                        newsletterName: 'Dex-bot by Mr Shyam Hacker',
+                        newsletterName: 'DEX SHYAM TECH by Mr Shyam Hacker',
                         serverMessageId: -1
                     } 
                 }
