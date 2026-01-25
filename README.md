@@ -1,4 +1,4 @@
-![WELLCOME](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&text=DEX-BOT-MD%20ULTRA%202026&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false)
+![WELLCOME](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&text=DEX-BOT-MD+ULTRA+2026&animation=twinkling&fontAlign=36&fontAlignY=36&fontColor=00FF00&font=Black+Ops+One)
 
 ______
 
@@ -8,19 +8,13 @@ ___
 
 <p align="center">
   <a href="https://github.com/Dexsam07" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=700&lines=DEVELOPER%3A+DEX;KING+OF+WHATSAPP+BOTS;BAHARAMPUR%2C+WEST+BENGAL%2C+INDIA" alt="Developer — Dex (Gold Glow)">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&color=FFD700&center=true&vCenter=true&width=800&lines=DEVELOPER%3A+DEX;KING+OF+WHATSAPP+BOTS;BAHARAMPUR%2C+WEST+BENGAL%2C+INDIA" alt="Developer — Dex (Gold Glow)">
   </a>
 </p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBgXTsKwqSKZKy38w2o" target="_blank">
-    <img src="https://img.shields.io/badge/JOIN+MY+WHATSAPP+CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Join My WhatsApp Channel – Updates & Support">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dexsam07/DEX-BOT-MD" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT+REPO+HERE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="DEX-BOT-MD GitHub Repo">
+    <img src="https://img.shields.io/badge/JOIN+DEX-BOT+WHATSAPP+CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Join DEX-BOT WhatsApp Channel">
   </a>
 </p>
 
@@ -47,21 +41,15 @@ ___
   <img src="https://img.shields.io/badge/Always+Under+Maintenance-FF00FF?style=for-the-badge&logo=git&logoColor=white" alt="Maintenance" width="300"/>
 </p>
 
-<!-- FORK & STAR -->
 <p align="center">
   <a href="https://github.com/Dexsam07/DEX-BOT-MD/fork" target="_blank">
-    <img src="https://img.shields.io/badge/FORK+NOW-success?style=for-the-badge&logo=github&color=FFD700" alt="Fork Now"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Dexsam07/DEX-BOT-MD/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=yellow&logo=github" alt="Star Now"/>
+    <img src="https://img.shields.io/badge/FORK+%26+STAR+NOW-success?style=for-the-badge&logo=github&color=FFD700" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
-<!-- PAIRING CODE -->
 <p align="center">
   <a href="https://dex-bot-md-pair.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GET+PAIR+CODE-FASTEST-orange?style=for-the-badge&logo=opencv&logoColor=black" alt="Ultra Fast Pairing Code – Click Here">
+    <img src="https://img.shields.io/badge/GET+PAIR+CODE-FASTEST-orange?style=for-the-badge&logo=opencv&logoColor=black" alt="DEX-BOT-MD Pairing Code">
   </a>
 </p>
 
@@ -74,15 +62,15 @@ ___
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/Dexsam07/DEX-BOT-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
-      <td><a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank"><img src="https://img.shields.io/badge/Bot-Hosting-A52A2A?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/Dexsam07/DEX-BOT-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank"><img src="https://img.shields.io/badge/Bot-Hosting-A52A2A?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Dexsam07%2FDEX-BOT-MD" target="_blank"><img src="https://img.shields.io/badge/KOYEB-APP-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-000080?style=for-the-badge&logo=railway&logoColor=white"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Dexsam07%2FDEX-BOT-MD" target="_blank"><img src="https://img.shields.io/badge/KOYEB-APP-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-000080?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-46a2f1?style=for-the-badge&logo=render&logoColor=white"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-46a2f1?style=for-the-badge&logo=render&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white"/></a></td>
     </tr>
   </table>
@@ -90,7 +78,7 @@ ___
 
 -------------
 
-**_✠ FREE DEPLOYMENT OF DEX-BOT-MD GITHUB WORKFLOW CODE – NEW ADD & ERROR FIXED ✠_**
+**_✠ FREE DEPLOYMENT OF DEX-BOT-MD GITHUB WORKFLOW CODE – ERROR FIXED & ULTRA OPTIMIZED ✠_**
 
 ```yaml
 name: Node.js CI
