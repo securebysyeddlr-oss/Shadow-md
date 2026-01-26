@@ -60,12 +60,12 @@
   <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge&logo=github" alt="Fork"/>
 </a>
 
-### Step 2: Get Pair Code (Fast & Easy)
+### Step 2: Get Pair Code (ultra-Fast & Easy)
 <a href="https://dex-bot-md-pair.onrender.com/">
   <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
 </a>
 
-### Step 3: Get Pair Code (Fast & Easy)
+### Step 3: Get Pair Code (stable & Easy)
 <a href="https://shyam-md-piar-1.onrender.com/">
   <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
 </a>
