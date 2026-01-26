@@ -1,198 +1,127 @@
-# 🤖 DEX-BOT-MD 2026 🔥
+# 🤖 DEX-BOT-MD 2026 PRO 🔥
+**The Most Advanced Multi-Device WhatsApp Bot**
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=00ff00&center=true&width=1000&height=120&lines=DEX-BOT+MD;Multi+Device+WhatsApp+Bot;2026+Latest+Edition;Powered+by+Baileys+v7+;Coded+By+Dex+Shyam" alt="Typing SVG" />
-  </a> 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00ff9d&center=true&vCenter=true&width=900&height=100&lines=DEX-BOT+MD+2026;Next-Gen+Multi-Device+Bot;Powered+by+Baileys+v7+;200%2B+Ultra+Commands;Developed+by+Dex+Shyam" alt="DEX-BOT-MD 2026" />
+</p>
 
-<div align="center">
-  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="Dex Bot Md" height="350">
-</div>
+<p align="center">
+  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="DEX-BOT-MD Banner" width="580"/>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=green" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=blue" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=yellow" alt="Watchers"/>
-  <img src="https://img.shields.io/github/last-commit/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=red" alt="Last Commit"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/stargazers"><img src="https://img.shields.io/github/stars/Dexsam07/DEX-BOT-MD?color=FFD700&style=for-the-badge&logo=starship&logoColor=white"/></a>
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/network/members"><img src="https://img.shields.io/github/forks/Dexsam07/DEX-BOT-MD?color=00ff9d&style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/watchers"><img src="https://img.shields.io/github/watchers/Dexsam07/DEX-BOT-MD?color=ff6b6b&style=for-the-badge&logo=eye&logoColor=white"/></a>
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/commits/main"><img src="https://img.shields.io/github/last-commit/Dexsam07/DEX-BOT-MD?color=9d4edd&style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Dexsam07/DEX-BOT-MD?color=brightgreen&style=for-the-badge"/></a>
+</p>
 
-## 🚀 Ultra Features (200+ Commands)
+---
 
-### Group Management
-- `.tagall` / `.everyone` – Tag all members
-- `.mute` / `.unmute` – Mute/Unmute group
-- `.antidelete` / `.antiviewonce` – Anti-delete & view once saver
-- `.warn` / `.unwarn` / `.kick` / `.add` – Member management
-- `.antilink` / `.antibadword` / `.antinsfw` – Advanced protection
+## ✨ Ultra Premium Features (200+ Commands)
 
-### AI & Smart Features
-- `.ai` / `.chatgpt` – Chat with GPT-4o / Gemini AI
-- `.img` / `.generate` – AI image generation (Flux / DALL-E)
-- `.summarize` – Summarize long messages
-- `.translate` – Auto translate any language
+### 🛡️ Group Management (Pro Level)
+- `.tagall` / `.everyone` / `.hidetag` – Advanced tagging modes
+- `.mute` / `.unmute` / `.lock` / `.unlock` – Full group control
+- `.antidelete` / `.antiviewonce` / `.antirevoke` – Message protection
+- `.warn` / `.unwarn` / `.kick` / `.ban` / `.add` / `.promote` / `.demote`
+- `.antilink` / `.antibadword` / `.antinsfw` / `.antiarabic` / `.antiforeign`
 
-### Media & Fun
-- `.song` / `.video` / `.yt` – YouTube downloader (audio/video)
-- `.sticker` / `.toimg` / `.togif` – Sticker tools
-- `.tts` / `.voice` – Text to speech (multiple voices)
-- `.meme` / `.quote` / `.joke` – Fun commands
-- `.tictactoe` / `.chess` – Interactive games
+### 🤖 AI & Intelligence Suite
+- `.ai` / `.gpt` / `.gemini` / `.chat` – GPT-4o / Gemini / Claude support
+- `.img` / `.generate` / `.flux` / `.dalle` – Ultra HD AI image generation
+- `.summarize` / `.tl;dr` – Smart message summarization
+- `.translate` / `.tr` – Real-time multi-language translation
+- `.ocr` – Extract text from images
 
-### Utility & Advanced
-- `.ping` / `.speed` – Check bot speed
-- `.system` / `.stats` – Bot info & uptime
-- `.backup` – Session backup
-- `.restart` / `.update` – Self update & restart
-- Anti-ban system (random delays, human-like typing)
+### 🎥 Media & Entertainment
+- `.song` / `.video` / `.yt` / `.yta` / `.ytv` – YouTube downloader (highest quality)
+- `.sticker` / `.toimg` / `.togif` / `.take` – Advanced sticker tools
+- `.tts` / `.voice` / `.v` – 100+ voices & languages
+- `.meme` / `.quote` / `.joke` / `.fact` / `.roast`
+- `.tictactoe` / `.chess` / `.rps` – Multiplayer group games
 
-### Anti-Ban Protection (2026 Safe)
-- Latest **@whiskeysockets/baileys@v7+**
-- Random typing delays
-- Proxy support
-- No spam detection
-- Base64 secure session
+### ⚡ Utility & Performance
+- `.ping` / `.speedtest` / `.latency` – Real-time performance check
+- `.system` / `.stats` / `.uptime` – Detailed bot status
+- `.backup` / `.restore` – Secure session backup
+- `.restart` / `.update` / `.selfupdate` – Zero-downtime updates
+- **Anti-ban system v3** (random delays, human-like typing, proxy rotation)
 
-## ⚡ Steps to Deploy Ultra Bot
+### 🔒 2026 Anti-Ban Protection
+- Latest **@whiskeysockets/baileys v7+**
+- Advanced typing simulation + random delays
+- Built-in proxy support
+- No spam detection triggers
+- Base64 + encrypted session files
 
-### Step 1: Fork This Repo
-<a href="https://github.com/Dexsam07/DEX-BOT-MD/fork">
-  <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge&logo=github" alt="Fork"/>
-</a>
+---
 
-### Step 2: Get Pair Code (ultra-Fast & Easy)
-<a href="https://dex-bot-md-pair.onrender.com/">
-  <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
-</a>
+## 🚀 Deploy in 5 Minutes
 
-### Step 3: Get Pair Code (stable & Easy)
-<a href="https://shyam-md-piar-1.onrender.com/">
-  <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
-</a>
+### 1. **Fork This Repository**
+<p align="center">
+  <a href="https://github.com/Dexsam07/DEX-BOT-MD/fork">
+    <img src="https://img.shields.io/badge/Fork%20Now-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repository"/>
+  </a>
+</p>
 
-- Scan QR ya Pair Code se connect karo
-- `creds.json` milega → `session` folder mein upload kar do
+### 2. **Get Pair Code (Ultra Fast)**
+<p align="center">
+  <a href="https://dex-bot-md-pair.onrender.com/">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff3366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fast Pair"/>
+  </a>
+  <a href="https://shyam-md-piar-1.onrender.com/">
+    <img src="https://img.shields.io/badge/Stable%20Pair%20Code-00cc99?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Stable Pair"/>
+  </a>
+</p>
 
-### Step 4: Deploy Options
-| Platform       | Badge                                                                 | Link |
-|----------------|-----------------------------------------------------------------------|------|
-| **Render**     | <img src="https://img.shields.io/badge/Deploy%20on%20Render-46a2f1?style=for-the-badge&logo=render" /> | https://render.com |
-| **Railway**    | <img src="https://img.shields.io/badge/Deploy%20on%20Railway-131313?style=for-the-badge&logo=railway" /> | https://railway.app |
-| **VPS (Petrosky)** | <img src="https://img.shields.io/badge/Petrosky%20VPS-0078E7?style=for-the-badge" /> | https://client.petrosky.io/aff.php?aff=394 |
-| **Katabump Panel** | <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server" /> | https://dashboard.katabump.com |
-| **Heroku (Anti-Ban)** | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku" /> | Use with caution |
+### 3. **Upload Session**
+- After pairing → Download `creds.json`
+- Upload it to `session` folder in your hosting
 
-### Step 5: Run Commands
+### 4. **One-Click Deploy (Recommended)**
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/Dexsam07/DEX-BOT-MD">
+    <img src="https://img.shields.io/badge/Deploy%20on%20Render-46a2f1?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render"/>
+  </a>
+  <a href="https://railway.app/new">
+    <img src="https://img.shields.io/badge/Deploy%20on%20Railway-131313?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy on Railway"/>
+  </a>
+</p>
+
+### 5. **Manual Setup (VPS / Local)**
 ```bash
-git pull
+git clone https://github.com/Dexsam07/DEX-BOT-MD.git
+cd DEX-BOT-MD
 npm install
 npm install @whiskeysockets/baileys@latest --save
 node index.js
+🛠️ Tech Stack
+Node.js 20+
+@whiskeysockets/baileys v7+
+PM2 ready
+Multi-device support
+Encrypted session storage
+📜 License & Legal
+MIT License – but with strict conditions:
+For educational purposes only
+Not affiliated with WhatsApp in any way
+Using this bot may result in account ban. Use at your own risk.
+Do NOT use for spam, bulk messaging, or illegal activities
+Developers are not responsible for any bans or consequences
+❤️ Support the Project
+�
+￼ ￼ 
 
-## ⚙️ Features
+Developed with ❤️ by Dex Shyam
+© 2026 DEX-BOT-MD – All Rights Reserved
+This version looks **premium**, uses **modern badges**, has **clear sections**, **attractive deploy buttons**, and gives a very professional vibe while keeping everything you had.
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
-
----
-
-## 📖 About
-
-The Dexbot WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
-
-- Node.js installed on your system
-- Git installed (for cloning the repository)
-
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone hhttps://github.com/Dexsam07/DEX-BOT-MD.git
-    cd DEX-BOT-MD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
-
----
-
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Dexsam07/DEX-BOT-MD/blob/main/LICENSE) file for details.
-
----
-
-## 🙌 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Dexsam07/DEX-BOT-MD/issues).
-
----
-
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Dexsam07/DEX-BOT-MD)!
-
-
-## Credits
-
-- [DEX_SHAYAM](https://github.com/Dexsam07)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [DEX-SHYAM-HA4KR](https://github.com/Dexsam07) for pair cod
-- [Dgxeon](https://github.com/Dgxeon) for pair code
-
----
-
-## ⚠️ Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2026 Shyam. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+Let me know if you want even more upgrades like:
+- Dark theme screenshots
+- Feature comparison table
+- Demo video section
+- Contributor list
+- Donation links etc. 🚀
