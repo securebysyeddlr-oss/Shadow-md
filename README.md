@@ -1,4 +1,4 @@
- # 🤖 DEX-BOT-MD 2026 PRO 🔥
+# 🤖 DEX-BOT-MD 2026 PRO 🔥
 **The Most Advanced Multi-Device WhatsApp Bot**
 
 <p align="center">
@@ -16,6 +16,24 @@
   <a href="https://github.com/Dexsam07/DEX-BOT-MD/commits/main"><img src="https://img.shields.io/github/last-commit/Dexsam07/DEX-BOT-MD?color=9d4edd&style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://github.com/Dexsam07/DEX-BOT-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Dexsam07/DEX-BOT-MD?color=brightgreen&style=for-the-badge"/></a>
 </p>
+
+---
+
+## 🎥 Quick Demo Video (Step-by-Step Deployment Tutorial)
+
+Watch this full tutorial to deploy DEX-BOT-MD in minutes – no coding needed! Shows pair code generation, session upload, free hosting (Render/Railway/etc.), and 24/7 running setup.
+
+<p align="center">
+  <a href="https://youtu.be/Hmp17yyU9Xc">
+    <img src="https://i.ibb.co/r2HgZSc/IMG-20260125-WA0015.jpg" alt="DEX-BOT-MD Deployment Tutorial Thumbnail" width="560" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Watch%20Full%20Tutorial%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
+
+**Video Title:** WhatsApp bot Last method free bot Dex-Bot-md 24*7 working Easiest method to deploy  
+**Channel:** TX gaming lover  
+**Duration/Highlights:** Step-by-step guide for Dex-Bot-MD setup, GitHub clone, pair code, free hosting, and anti-ban tips.
 
 ---
 
@@ -60,7 +78,7 @@
 
 ## 🚀 Free One-Click Hosting Options 2026 (10+ Platforms)
 
-Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most support Node.js + persistent runtime (good for WhatsApp bots). Just fork repo → connect GitHub → deploy in 2-5 minutes.
+Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most support Node.js + persistent runtime (perfect for WhatsApp bots).
 
 <p align="center">
   <a href="https://render.com/deploy?repo=https://github.com/Dexsam07/DEX-BOT-MD">
@@ -102,12 +120,10 @@ Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most supp
 </p>
 
 **Quick Tips for Free Hosting:**
-- **Render/Railway/Koyeb/Fly.io** → Best for 24/7 bot (free tier with limits, add credit card sometimes needed for verification)
-- **Katabump & Bot-Hosting.net** → Specially made for WhatsApp/Discord bots (free panels, upload creds.json + run with low/zero coins)
-- **Replit/Glitch** → Good for testing (may sleep after inactivity)
-- **Vercel** → Great if bot has API/web part (serverless, may need tweaks for long-running)
-- Always upload `creds.json` to session folder after pairing.
-- Use PM2 or built-in process manager for keeping bot alive.
+- **Render/Railway/Koyeb/Fly.io** → Best for 24/7 (free tier limits, sometimes card verification)
+- **KataBump & Bot-Hosting.net** → Made for WhatsApp bots (free/low-coin panels, easy creds.json upload)
+- **Replit/Glitch** → Testing ke liye best (sleep after inactivity)
+- **Vercel** → If bot has web/API part (serverless, tweaks needed for long-running)
 
 ---
 
@@ -131,11 +147,11 @@ Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most supp
 </p>
 
 ### 3. **Upload Session**
-- After pairing → Download `creds.json`
-- Upload it to `session` folder in your hosting (or root if needed)
+- Pair karne ke baad → `creds.json` download karo
+- Hosting mein `session` folder (ya root) mein upload kar do
 
 ### 4. **One-Click Deploy (Recommended)**
-Use buttons above or follow platform docs.
+Upar ke buttons use karo ya platform ke docs follow karo.
 
 ### 5. **Manual Setup (VPS / Local)**
 ```bash
@@ -156,5 +172,6 @@ Not affiliated with WhatsApp in any way
 Using this bot may result in account ban. Use at your own risk.
 Do NOT use for spam, bulk messaging, or illegal activities
 Developers are not responsible for any bans or consequences
-❤️ Support the Project Developed with ❤️ by Dex Shyam
-© 2026 DEX-BOT-MD – All Rights way
+❤️ Support the Project
+Developed with ❤️ by Dex Shyam
+© 2026 DEX-BOT-MD – All Rights kiya
