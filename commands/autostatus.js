@@ -8,7 +8,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363406449026172@newsletter',
-            newsletterName: 'DexBot MD',
+            newsletterName: 'Dex-Bot-MD',
             serverMessageId: -1
         }
     }
