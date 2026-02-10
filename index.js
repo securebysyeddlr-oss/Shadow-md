@@ -1,6 +1,6 @@
 /**
  * Dex Bot - A WhatsApp Bot
- * Copyright (c) 2025 SHYAM
+ * Copyright (c) 2025 Dex Shyam Chaudhari
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the MIT License.
@@ -73,7 +73,7 @@ setInterval(() => {
 let phoneNumber = "917384287404"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "Dex BOT"
+global.botname = "Dex-Bot-md"
 global.themeemoji = "•"
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
