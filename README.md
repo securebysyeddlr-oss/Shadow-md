@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shadowherefx/Shadow-md/tree/main/assets/bot_image.jpg" alt="DEX-BOT-MD Banner" width="580"/>
+  <img src="https://github.com/shadowherefx/Shadow-md/tree/main/assets/bot_image.jpg" width="580"/>
 </p>
 
 <p align="center">
